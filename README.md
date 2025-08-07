@@ -9,3 +9,5 @@
 * [CAS-Light](https://github.com/ai-shahab/cas-light): includes (i) checkpoints for compact SOTA image-text models; (ii) source code for a novel optimizer tuned for creative prompt interpretation and fast convergence.
 * [CAS-Long](https://github.com/ai-shahab/cas-long): features a custom long-context attention mechanism designed to handle abstract visual-language prompts with high temporal and structural complexity.
 * [CAS-VL](https://github.com/ai-shahab/cas-vl): Mixture-of-Experts Vision-Language Model tuned for artistic prompt understanding, cinematic storytelling, and high-fidelity multimodal reasoning.
+* [CAS-Prover Preview](https://github.com/ai-shahab/cas-prover-preview): Towards Large Formal Reasoning Models with Multi-Step Derivation Capabilities. Includes our technical report, open-source weights, and a refined benchmark for symbolic logic and mathematical inference.
+* [CAS-Dev](https://github.com/ai-shahab/cas-dev): A High-performance Coding LLM optimized for automatic issue triage, patch generation, and reasoning over complex codebases. CAS-Dev-42B achieves 58.7% on SWE-bench Verified.
