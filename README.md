@@ -4,4 +4,4 @@
 
 ## Research
 * [CAS 2](https://github.com/ai-shahab/cas2): a next-generation generative vision model engineered to translate surreal, poetic, and mathematically impossible prompts into ultra-detailed, coherent images. CAS 2 combines quantum geometry, Persian aesthetics, and cinematic lighting — positioning itself as a creative step toward AGI.
-* [CAS-Vision](https://github.com/yourusername/cas-vision): an open-source image generation model specialized in visualizing abstract, symbolic, and fractal-rich prompts. CAS-Vision expands the CAS framework into the visual domain, blending Persian miniature aesthetics, physically-impossible geometry, and cinematic photorealism.
+* [CAS-Vision](https://github.com/ai-shahab/cas-vision): an open-source image generation model specialized in visualizing abstract, symbolic, and fractal-rich prompts. CAS-Vision expands the CAS framework into the visual domain, blending Persian miniature aesthetics, physically-impossible geometry, and cinematic photorealism.
